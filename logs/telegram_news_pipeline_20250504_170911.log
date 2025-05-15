@@ -1,0 +1,368 @@
+🧠 Loading FinBERT model...
+🚀 Starting multi-source news scraping pipeline for 88 companies
+
+🔄 Processing TSLA - Tesla
+🔄 Scraping Telegram channel: @@tsla (TSLA)
+
+🔄 Processing BYDDY - BYD Company
+🔄 Scraping Telegram channel: @@byddy (BYDDY)
+
+🔄 Processing LI - Li Auto
+🔄 Scraping Telegram channel: @@li (LI)
+
+🔄 Processing NIO - NIO
+🔄 Scraping Telegram channel: @@nio (NIO)
+
+🔄 Processing RIVN - Rivian
+🔄 Scraping Telegram channel: @@rivn (RIVN)
+
+🔄 Processing LCID - Lucid Group
+🔄 Scraping Telegram channel: @@lcid (LCID)
+
+🔄 Processing XPEV - XPeng
+🔄 Scraping Telegram channel: @@xpev (XPEV)
+
+🔄 Processing NKLA - Nikola
+🔄 Scraping Telegram channel: @@nkla (NKLA)
+
+🔄 Processing PSNY - Polestar
+🔄 Scraping Telegram channel: @@psny (PSNY)
+
+🔄 Processing GM - General Motors
+🔄 Scraping Telegram channel: @@gm (GM)
+
+🔄 Processing F - Ford
+🔄 Scraping Telegram channel: @@f (F)
+
+🔄 Processing VWAGY - Volkswagen
+🔄 Scraping Telegram channel: @@vwagy (VWAGY)
+
+🔄 Processing BAMXF - BMW
+🔄 Scraping Telegram channel: @@bamxf (BAMXF)
+
+🔄 Processing HYMTF - Hyundai
+🔄 Scraping Telegram channel: @@hymtf (HYMTF)
+
+🔄 Processing KIMTF - Kia
+🔄 Scraping Telegram channel: @@kimtf (KIMTF)
+
+🔄 Processing POAHY - Porsche
+🔄 Scraping Telegram channel: @@poahy (POAHY)
+
+🔄 Processing MBGYY - Mercedes-Benz
+🔄 Scraping Telegram channel: @@mbgyy (MBGYY)
+
+🔄 Processing STLA - Stellantis
+🔄 Scraping Telegram channel: @@stla (STLA)
+
+🔄 Processing GELYF - Geely
+🔄 Scraping Telegram channel: @@gelyf (GELYF)
+
+🔄 Processing GWLLY - Great Wall Motors
+🔄 Scraping Telegram channel: @@gwlly (GWLLY)
+
+🔄 Processing SAIC - SAIC Motor
+🔄 Scraping Telegram channel: @@saic (SAIC)
+
+🔄 Processing HYLN - Hyliion
+🔄 Scraping Telegram channel: @@hyln (HYLN)
+
+🔄 Processing GNZUF - GAC Group
+🔄 Scraping Telegram channel: @@gnzuf (GNZUF)
+
+🔄 Processing TATAMOTORS.NS - Tata Motors
+🔄 Scraping Telegram channel: @@tatamotors.ns (TATAMOTORS.NS)
+
+🔄 Processing MAHMF - Mahindra
+🔄 Scraping Telegram channel: @@mahmf (MAHMF)
+
+🔄 Processing RNLSY - Renault
+🔄 Scraping Telegram channel: @@rnlsy (RNLSY)
+
+🔄 Processing NSANY - Nissan
+🔄 Scraping Telegram channel: @@nsany (NSANY)
+
+🔄 Processing MMTOF - Mitsubishi Motors
+🔄 Scraping Telegram channel: @@mmtof (MMTOF)
+
+🔄 Processing JPM - JPMorgan Chase
+🔄 Scraping Telegram channel: @@jpm (JPM)
+
+🔄 Processing BAC - Bank of America
+🔄 Scraping Telegram channel: @@bac (BAC)
+
+🔄 Processing WFC - Wells Fargo
+🔄 Scraping Telegram channel: @@wfc (WFC)
+
+🔄 Processing C - Citigroup
+🔄 Scraping Telegram channel: @@c (C)
+
+🔄 Processing GS - Goldman Sachs
+🔄 Scraping Telegram channel: @@gs (GS)
+
+🔄 Processing MS - Morgan Stanley
+🔄 Scraping Telegram channel: @@ms (MS)
+
+🔄 Processing USB - U.S. Bancorp
+🔄 Scraping Telegram channel: @@usb (USB)
+
+🔄 Processing PNC - PNC Financial
+🔄 Scraping Telegram channel: @@pnc (PNC)
+
+🔄 Processing TFC - Truist Financial
+🔄 Scraping Telegram channel: @@tfc (TFC)
+
+🔄 Processing COF - Capital One
+🔄 Scraping Telegram channel: @@cof (COF)
+
+🔄 Processing TD - TD Bank
+🔄 Scraping Telegram channel: @@td (TD)
+
+🔄 Processing SCHW - Charles Schwab
+🔄 Scraping Telegram channel: @@schw (SCHW)
+
+🔄 Processing BK - Bank of New York Mellon
+🔄 Scraping Telegram channel: @@bk (BK)
+
+🔄 Processing STT - State Street
+🔄 Scraping Telegram channel: @@stt (STT)
+
+🔄 Processing AXP - American Express
+🔄 Scraping Telegram channel: @@axp (AXP)
+
+🔄 Processing HSBC - HSBC
+🔄 Scraping Telegram channel: @@hsbc (HSBC)
+
+🔄 Processing CFG - Citizens Financial
+🔄 Scraping Telegram channel: @@cfg (CFG)
+
+🔄 Processing FITB - Fifth Third Bank
+🔄 Scraping Telegram channel: @@fitb (FITB)
+
+🔄 Processing MTB - M&T Bank
+🔄 Scraping Telegram channel: @@mtb (MTB)
+
+🔄 Processing HBAN - Huntington Bancshares
+🔄 Scraping Telegram channel: @@hban (HBAN)
+
+🔄 Processing ALLY - Ally Financial
+🔄 Scraping Telegram channel: @@ally (ALLY)
+
+🔄 Processing KEY - KeyCorp
+🔄 Scraping Telegram channel: @@key (KEY)
+
+🔄 Processing RY - Royal Bank of Canada
+🔄 Scraping Telegram channel: @@ry (RY)
+
+🔄 Processing SAN - Santander
+🔄 Scraping Telegram channel: @@san (SAN)
+
+🔄 Processing NTRS - Northern Trust
+🔄 Scraping Telegram channel: @@ntrs (NTRS)
+
+🔄 Processing RF - Regions Financial
+🔄 Scraping Telegram channel: @@rf (RF)
+
+🔄 Processing SYF - Synchrony Financial
+🔄 Scraping Telegram channel: @@syf (SYF)
+
+🔄 Processing NBHC - National Bank Holdings
+🔄 Scraping Telegram channel: @@nbhc (NBHC)
+
+🔄 Processing ZION - Zions Bancorporation
+🔄 Scraping Telegram channel: @@zion (ZION)
+
+🔄 Processing FHN - First Horizon
+🔄 Scraping Telegram channel: @@fhn (FHN)
+
+🔄 Processing AAPL - Apple
+🔄 Scraping Telegram channel: @@aapl (AAPL)
+
+🔄 Processing MSFT - Microsoft
+🔄 Scraping Telegram channel: @@msft (MSFT)
+
+🔄 Processing GOOGL - Google
+🔄 Scraping Telegram channel: @@googl (GOOGL)
+
+🔄 Processing GOOG - Google
+🔄 Scraping Telegram channel: @@goog (GOOG)
+
+🔄 Processing AMZN - Amazon
+🔄 Scraping Telegram channel: @@amzn (AMZN)
+
+🔄 Processing META - Meta
+🔄 Scraping Telegram channel: @@meta (META)
+
+🔄 Processing NVDA - NVIDIA
+🔄 Scraping Telegram channel: @@nvda (NVDA)
+
+🔄 Processing TSM - TSMC
+🔄 Scraping Telegram channel: @@tsm (TSM)
+
+🔄 Processing ADBE - Adobe
+🔄 Scraping Telegram channel: @@adbe (ADBE)
+
+🔄 Processing INTC - Intel
+🔄 Scraping Telegram channel: @@intc (INTC)
+
+🔄 Processing CSCO - Cisco
+🔄 Scraping Telegram channel: @@csco (CSCO)
+
+🔄 Processing ORCL - Oracle
+🔄 Scraping Telegram channel: @@orcl (ORCL)
+
+🔄 Processing IBM - IBM
+🔄 Scraping Telegram channel: @@ibm (IBM)
+
+🔄 Processing CRM - Salesforce
+🔄 Scraping Telegram channel: @@crm (CRM)
+
+🔄 Processing QCOM - Qualcomm
+🔄 Scraping Telegram channel: @@qcom (QCOM)
+
+🔄 Processing AVGO - Broadcom
+🔄 Scraping Telegram channel: @@avgo (AVGO)
+
+🔄 Processing TXN - Texas Instruments
+🔄 Scraping Telegram channel: @@txn (TXN)
+
+🔄 Processing AMD - AMD
+🔄 Scraping Telegram channel: @@amd (AMD)
+
+🔄 Processing AMAT - Applied Materials
+🔄 Scraping Telegram channel: @@amat (AMAT)
+
+🔄 Processing MU - Micron
+🔄 Scraping Telegram channel: @@mu (MU)
+
+🔄 Processing NET - Cloudflare
+🔄 Scraping Telegram channel: @@net (NET)
+
+🔄 Processing NOW - ServiceNow
+🔄 Scraping Telegram channel: @@now (NOW)
+
+🔄 Processing SNOW - Snowflake
+🔄 Scraping Telegram channel: @@snow (SNOW)
+
+🔄 Processing DOCU - DocuSign
+🔄 Scraping Telegram channel: @@docu (DOCU)
+
+🔄 Processing SHOP - Shopify
+🔄 Scraping Telegram channel: @@shop (SHOP)
+
+🔄 Processing UBER - Uber
+🔄 Scraping Telegram channel: @@uber (UBER)
+
+🔄 Processing LYFT - Lyft
+🔄 Scraping Telegram channel: @@lyft (LYFT)
+
+🔄 Processing SNAP - Snap
+🔄 Scraping Telegram channel: @@snap (SNAP)
+
+🔄 Processing HRB - H&R Block
+🔄 Scraping Telegram channel: @@hrb (HRB)
+
+🔄 Processing DDOG - Datadog
+🔄 Scraping Telegram channel: @@ddog (DDOG)
+
+🔄 Scraping web news for TSLA - Tesla
+📄 Scraping wsj for TSLA - Tesla
+❌ Error scraping wsj: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from wsj for TSLA
+📄 Scraping bloomberg for TSLA - Tesla
+❌ Error scraping bloomberg: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from bloomberg for TSLA
+📄 Scraping reuters for TSLA - Tesla
+❌ Error scraping reuters: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from reuters for TSLA
+📄 Scraping the_guardian for TSLA - Tesla
+❌ Error scraping the_guardian: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from the_guardian for TSLA
+📄 Scraping cnbc for TSLA - Tesla
+❌ Error scraping cnbc: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from cnbc for TSLA
+
+🔄 Scraping web news for BYDDY - BYD Company
+📄 Scraping wsj for BYDDY - BYD Company
+❌ Error scraping wsj: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from wsj for BYDDY
+📄 Scraping bloomberg for BYDDY - BYD Company
+❌ Error scraping bloomberg: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from bloomberg for BYDDY
+📄 Scraping reuters for BYDDY - BYD Company
+❌ Error scraping reuters: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from reuters for BYDDY
+📄 Scraping the_guardian for BYDDY - BYD Company
+❌ Error scraping the_guardian: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from the_guardian for BYDDY
+📄 Scraping cnbc for BYDDY - BYD Company
+❌ Error scraping cnbc: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from cnbc for BYDDY
+
+🔄 Scraping web news for LI - Li Auto
+📄 Scraping wsj for LI - Li Auto
+❌ Error scraping wsj: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from wsj for LI
+📄 Scraping bloomberg for LI - Li Auto
+❌ Error scraping bloomberg: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from bloomberg for LI
+📄 Scraping reuters for LI - Li Auto
+❌ Error scraping reuters: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from reuters for LI
+📄 Scraping the_guardian for LI - Li Auto
+❌ Error scraping the_guardian: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from the_guardian for LI
+📄 Scraping cnbc for LI - Li Auto
+❌ Error scraping cnbc: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from cnbc for LI
+
+🔄 Scraping web news for NIO - NIO
+📄 Scraping wsj for NIO - NIO
+❌ Error scraping wsj: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from wsj for NIO
+📄 Scraping bloomberg for NIO - NIO
+❌ Error scraping bloomberg: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from bloomberg for NIO
+📄 Scraping reuters for NIO - NIO
+❌ Error scraping reuters: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from reuters for NIO
+📄 Scraping the_guardian for NIO - NIO
+❌ Error scraping the_guardian: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from the_guardian for NIO
+📄 Scraping cnbc for NIO - NIO
+❌ Error scraping cnbc: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from cnbc for NIO
+
+🔄 Scraping web news for RIVN - Rivian
+📄 Scraping wsj for RIVN - Rivian
+❌ Error scraping wsj: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from wsj for RIVN
+📄 Scraping bloomberg for RIVN - Rivian
+❌ Error scraping bloomberg: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from bloomberg for RIVN
+📄 Scraping reuters for RIVN - Rivian
+❌ Error scraping reuters: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from reuters for RIVN
+📄 Scraping the_guardian for RIVN - Rivian
+❌ Error scraping the_guardian: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from the_guardian for RIVN
+📄 Scraping cnbc for RIVN - Rivian
+❌ Error scraping cnbc: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from cnbc for RIVN
+
+🔄 Scraping web news for LCID - Lucid Group
+📄 Scraping wsj for LCID - Lucid Group
+❌ Error scraping wsj: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from wsj for LCID
+📄 Scraping bloomberg for LCID - Lucid Group
+❌ Error scraping bloomberg: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from bloomberg for LCID
+📄 Scraping reuters for LCID - Lucid Group
+❌ Error scraping reuters: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from reuters for LCID
+📄 Scraping the_guardian for LCID - Lucid Group
+❌ Error scraping the_guardian: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from the_guardian for LCID
+📄 Scraping cnbc for LCID - Lucid Group
+❌ Error scraping cnbc: 'GNews' object has no attribute '_GNews__set_values'
+🚫 No articles from cnbc for LCID
