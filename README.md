@@ -20,23 +20,27 @@ This project explores how news sentiment analysis can enhance portfolio construc
 ## Setup
 
 ### Prerequisites
+
 - Python 3.8+
 - Libraries: `pandas`, `numpy`, `statsmodels`, `sklearn`, `transformers`, `torch`, `gnews`
 - LaTeX distribution (e.g., TeX Live) for compiling the paper
 - Git for version control
 
 ### Installation
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/annepham1512/Sentiment-Analysis-for-Portfolio-Division-and-Fama-French-Enhancemen.git
    cd Sentiment-Analysis-for-Portfolio-Division-and-Fama-French-Enhancemen
    ```
 2. Create a virtual environment and install dependencies:
+
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    pip install -r requirements.txt
    ```
+
    (Note: Create a `requirements.txt` file with listed libraries if not present.)
 
 3. Ensure data files are in `data/` (e.g., Fama-French factors from [Kenneth French’s library](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)).
@@ -44,16 +48,21 @@ This project explores how news sentiment analysis can enhance portfolio construc
 ## Usage
 
 ### Running the Analysis
+
 1. Execute sentiment scoring:
+
    ```bash
    python src/sentiment_scoring.py
    ```
+
    (Assumes `sentiment_scoring.py` for FinBERT processing.)
 
 2. Run Fama-French model:
+
    ```bash
    python src/fama_french_model.py
    ```
+
    (Assumes `fama_french_model.py` for OLS regression.)
 
 3. Generate visualizations:
@@ -63,7 +72,9 @@ This project explores how news sentiment analysis can enhance portfolio construc
    (Assumes `visualize_results.py` for bar plots, heatmaps, radar charts.)
 
 ### Compiling the Paper
+
 Compile the LaTeX paper:
+
 ```bash
 pdflatex paper.tex
 pdflatex paper.tex  # Run twice for references
@@ -84,13 +95,6 @@ pdflatex paper.tex  # Run twice for references
 - Proposed strategy: 50% Positive, 30% Neutral, 20% Negative terciles.
 - Future work: Expand data, improve NLP models, test across market conditions.
 
-## Contributors
-
-- Anne Pham (phamn@dickinson.edu)
-- Robin Nguyen
-- Emmanuel Arung Bate
-
-
 ## License
 
 [MIT License](LICENSE) (Add a `LICENSE` file if not present.)
@@ -102,4 +106,4 @@ pdflatex paper.tex  # Run twice for references
 
 ## Contact
 
-For questions, open an issue or contact contributors.
+For questions, open an issue or contact phamn@dickinson.edu.
